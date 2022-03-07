@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.d47f8ee7.css",
+    "main.js": "/e-commerce/static/js/main.9b5d7329.js",
+    "static/media/david-svihovec-LEtrhrME07g-unsplash.jpg": "/e-commerce/static/media/david-svihovec-LEtrhrME07g-unsplash.be5e99a8595cdab675d1.jpg",
+    "static/media/joan-tran-reEySFadyJQ-unsplash.jpg": "/e-commerce/static/media/joan-tran-reEySFadyJQ-unsplash.f72f696501212ae33284.jpg",
+    "static/media/alex-motoc-0POwK6iAiRQ-unsplash.jpg": "/e-commerce/static/media/alex-motoc-0POwK6iAiRQ-unsplash.13f5ad36aad4d5f09b35.jpg",
+    "static/media/varun-gaba-dcgB3CgidlU-unsplash.jpg": "/e-commerce/static/media/varun-gaba-dcgB3CgidlU-unsplash.3911fa44cef9ddcb8508.jpg",
+    "static/media/Red.jpg": "/e-commerce/static/media/Red.0429575cc1fe0397df73.jpg",
+    "static/media/hello-i-m-nik-ads33nL7V4k-unsplash.jpg": "/e-commerce/static/media/hello-i-m-nik-ads33nL7V4k-unsplash.6b9f49962e6c0c4abf7a.jpg",
+    "static/media/pat-taylor-12V36G17IbQ-unsplash.jpg": "/e-commerce/static/media/pat-taylor-12V36G17IbQ-unsplash.ae44ed749757f13ad099.jpg",
+    "static/media/Gadget.jpg": "/e-commerce/static/media/Gadget.4b80d2445df786619bd0.jpg",
+    "static/media/kiran-ck-LSNJ-pltdu8-unsplash.jpg": "/e-commerce/static/media/kiran-ck-LSNJ-pltdu8-unsplash.cd8f40cacbaa4e6cca23.jpg",
+    "static/media/AfricanWoman.jpg": "/e-commerce/static/media/AfricanWoman.f7eef61432b7349f406c.jpg",
+    "static/media/Mens-Suit.jpg": "/e-commerce/static/media/Mens-Suit.2deb24894217f22a5da8.jpg",
+    "static/media/Electronics.jpg": "/e-commerce/static/media/Electronics.e4d7fbd16a72c4beca0f.jpg",
+    "static/media/Suit.jpg": "/e-commerce/static/media/Suit.f27d2c193783061e154a.jpg",
+    "static/media/Background.jpg": "/e-commerce/static/media/Background.5a6014c79a4b888408de.jpg",
+    "static/media/Shoes.jpg": "/e-commerce/static/media/Shoes.6d650f0ea8b4285ac313.jpg",
+    "static/media/charlesdeluvio-1-nx1QR5dTE-unsplash.jpg": "/e-commerce/static/media/charlesdeluvio-1-nx1QR5dTE-unsplash.0b5438202adcd665afae.jpg",
+    "index.html": "/e-commerce/index.html",
+    "main.d47f8ee7.css.map": "/e-commerce/static/css/main.d47f8ee7.css.map",
+    "main.9b5d7329.js.map": "/e-commerce/static/js/main.9b5d7329.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d47f8ee7.css",
+    "static/js/main.9b5d7329.js"
+  ]
+}
